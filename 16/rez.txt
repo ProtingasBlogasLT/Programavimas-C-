@@ -1,0 +1,10 @@
+Pradiniai duomenys
+-------------------------
+|    Vardas    | Amþius |
+-------------------------
+|       Juozas | 25     |
+|        Tomas | 18     |
+|       Dovilë | 19     |
+-------------------------
+
+Failo pabaiga.

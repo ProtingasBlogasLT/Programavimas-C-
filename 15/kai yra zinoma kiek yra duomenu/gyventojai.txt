@@ -1,0 +1,4 @@
+3
+Petras, 36
+Jonas, 48
+Juozas, 24
