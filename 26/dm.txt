@@ -1,0 +1,8 @@
+Krepsinio komanda, 32
+Tom,	2.1		32	147
+Kirk,	2.08	32	103
+Doug,	1.93	15	58
+Aaron,	1.89	32	116
+Paul,	2.05	32	150
+Mike,	2		17	67
+Tony,	2.2		32	138

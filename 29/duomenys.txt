@@ -1,0 +1,6 @@
+Pirmoji failo teksto eilute.
+Antroji failo teksto eilute.
+Trecioji failo teksto eilute.
+Ketvirtoji failo teksto eilute.
+Penktoji failo teksto eilute.
+Sestoji failo teksto eilute.
